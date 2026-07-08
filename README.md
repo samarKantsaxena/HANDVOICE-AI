@@ -44,5 +44,5 @@ This project enables real-time recognition of 26 ASL alphabet signs (A-Z) from w
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/asl-recognition-samsung-sft.git
-cd asl-recognition-samsung-sft
+[[git clone https://github.com/samarKantsaxena/HANDVOICE-AI.git)
+cd HANDVOICE-AI.git]
